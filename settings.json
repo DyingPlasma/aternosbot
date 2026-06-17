@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dyingplasma.aternos.me",
-    "port": ,
+    "ip": "DyingPlasma.aternos.me",
+    "port": 45123,
     "version": "",
     "try-creative": false
   },
