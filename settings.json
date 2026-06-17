@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DyingPlasma.aternos.me",
+    "ip": "spiderfish.aternos.host:45123",
     "port": 45123,
     "version": "",
     "try-creative": false
